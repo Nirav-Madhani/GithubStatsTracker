@@ -1,5 +1,12 @@
 # GithubStatsTracker
-Automatically track github stats for as long as you want. Charts supported. Plus, Image Sharing of charts as well as embedded charts
+Automatically track github stats for as long as you want. Charts supported. Plus, Image Sharing of charts as well as embedded charts. Stats are tracked on daily basis using github Api. List of stats tracked.
+
+a. Visits
+b. Unique Visitors
+c. Clones
+d. Unique Clones
+
+Simple and easy automation solution! Easy to setup-up with just few clicks!
 
 * You can find [Google Doc Template File](https://docs.google.com/spreadsheets/d/1xPwOnH4kTf_tGZEnHvxWXrxcfgqDqM-3CowPfzXKRm8/edit?usp=sharing) here
 
