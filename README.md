@@ -1,5 +1,5 @@
 # GithubStatsTracker
-Automatically track github stats for as long as you want. Charts supported. Plus, Image Sharing of charts as well as embedded charts. Stats are tracked on daily basis using github Api. List of stats tracked.
+Automatically track github stats for more than 14 days; for as long as you want. Charts supported. Plus, Image Sharing of charts as well as embedded charts. Stats are tracked on daily basis using github Api. List of stats tracked.
 
 * Visits
 * Unique Visitors
