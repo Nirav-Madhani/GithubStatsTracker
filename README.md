@@ -24,3 +24,7 @@ Simple and easy automation solution! Easy to setup-up with just few clicks!
 
 ### Full Document Sharing
 ![image](https://user-images.githubusercontent.com/77914957/164983437-6bcfc36d-93a2-46c3-ad86-9b7321e90da9.png)
+
+### Clones vs Stars [Not Included]
+Just for fun!
+![Clones vs Stars](https://docs.google.com/spreadsheets/d/e/2PACX-1vRpQWfmElUl5p6sUCKp-TYJPMXfNF9tHqf5gH8BkF-N92uW94fxWyLK2psixOjZ4SxtDe-SCDG_7rPg/pubchart?oid=373507296&format=image)
