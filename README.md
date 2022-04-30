@@ -14,8 +14,8 @@ Simple and easy automation solution! Easy to setup-up with just few clicks!
 
 # Examples
 
-### Live Image Update Example:
-![Live Stats](https://docs.google.com/spreadsheets/d/e/2PACX-1vRpQWfmElUl5p6sUCKp-TYJPMXfNF9tHqf5gH8BkF-N92uW94fxWyLK2psixOjZ4SxtDe-SCDG_7rPg/pubchart?oid=2004236886&format=image)
+### Live Image Update Example: Traffic Stats For This Repository
+![Live Stats](https://docs.google.com/spreadsheets/d/e/2PACX-1vRpQWfmElUl5p6sUCKp-TYJPMXfNF9tHqf5gH8BkF-N92uW94fxWyLK2psixOjZ4SxtDe-SCDG_7rPg/pubchart?oid=106241412&format=image)
 
 ### Interactive Chart Example
 [Live Link](https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vRpQWfmElUl5p6sUCKp-TYJPMXfNF9tHqf5gH8BkF-N92uW94fxWyLK2psixOjZ4SxtDe-SCDG_7rPg/pubchart?oid=2004236886&format=interactive) of interactive chart.
