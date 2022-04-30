@@ -27,4 +27,5 @@ Simple and easy automation solution! Easy to setup-up with just few clicks!
 
 ### Clones vs Stars [Not Included]
 Just for fun!
+
 ![Clones vs Stars](https://docs.google.com/spreadsheets/d/e/2PACX-1vRpQWfmElUl5p6sUCKp-TYJPMXfNF9tHqf5gH8BkF-N92uW94fxWyLK2psixOjZ4SxtDe-SCDG_7rPg/pubchart?oid=373507296&format=image)
